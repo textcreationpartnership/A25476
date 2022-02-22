@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the manner of the behaviour of the prisoners who received sentence of death, on Saturday the first of September, 1688 at the Sessions-House in the Old-Bailey. Of which Charles O Bryan and Daniel Carey were executed at Tybun on Friday the 7th of September, 1688. With a relation of their several facts for which they were condemned, and what happened at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25476</idno>
+            <idno type="STC">Wing A323B</idno>
+            <idno type="STC">ESTC R213071</idno>
+            <idno type="EEBO-CITATION">99825584</idno>
+            <idno type="PROQUEST">99825584</idno>
+            <idno type="VID">29970</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29970)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1802:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the manner of the behaviour of the prisoners who received sentence of death, on Saturday the first of September, 1688 at the Sessions-House in the Old-Bailey. Of which Charles O Bryan and Daniel Carey were executed at Tybun on Friday the 7th of September, 1688. With a relation of their several facts for which they were condemned, and what happened at the place of execution.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by D. Mallet, next door to the sign of the Star between Fleet Bridge and Bridewell-bridge,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>O'Bryan, Charles, d. 1688.</term>
+               <term>Carey, Daniel, d. 1688.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:29970:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE <hi>Manner of the Behaviour</hi> OF THE Priſoners who received Sentence of Death, On <hi>Saturday</hi> the Firſt of <hi>September,</hi> 1688. at the Seſſions-Houſe in the <hi>OLD-BAILEY:</hi> Of which <hi>Charles O Bryan</hi> and <hi>Daniel Carey</hi> were Executed at <hi>Tyburn</hi> on <hi>Friday</hi> the 7th of <hi>September,</hi> 1688. With a Relation of their ſeveral Facts for which they were Condemned, and what happened at the Place of EXECUTION.</head>
+            <p>'TIs frequently obſerv'd, and much to be deplored, that the many fatal Examples of this kind have not their Effects on hardned Sinners, (ſuch as have ſold themſelves, as we may properly term it, to do Wicked<g ref="char:EOLhyphen"/>neſs in reſtraining them from following the footſteps of thoſe that have ſuffered; neither, on the other hand, does the interpoſing Mercy of a Gra<g ref="char:EOLhyphen"/>cious Prince, in ſaving the Lives of many from untimely Deaths, forfeited to Juſtice by the Crimes they have committed, work ſo ſenſibly upon theſe kind of Criminals, as to deter them from proceeding in diſhoneſt ways, and break<g ref="char:EOLhyphen"/>ing thoſe Laws that ought to be the Rule and Boundary of their Actions, and by which they ſhould ſquare the courſe of their Lives, ſo as to live honeſtly in ſuch Vocations or Callings, <hi>&amp;c.</hi> as God has appointed or enabled them to ſubſiſt in and by. However, that we may not be wanting to forwarn ſuch as are ſtill encouraging themſelves in the progreſs of Iniquity, we think it highly convenient to give a Relation of the Condemnation, manner of Behaviour, and Sufferings, <hi>&amp;c.</hi> of the Perſons who received Sentence at the Seſſions holden at the Seſſions-houſe in the <hi>Old-Bailey</hi> the Firſt of this inſtant <hi>September,</hi> 1688. as alſo for the further ſatisfaction of thoſe that are inquiſitive after the Account that is ordinarily given upon the Execution of the Priſoners ſuffering at <hi>Tyburn, &amp;c.</hi> Which Impartial Relation, <hi>Reader,</hi> take as followeth:</p>
+            <p>At the Seſſions holden for <hi>London</hi> and <hi>Middleſex,</hi> on the <hi>31ſt</hi> of <hi>Auguſt,</hi> and the <hi>1ſt</hi> of <hi>September,</hi> in the cloſe of the ſaid Seſſions theſe Perſons receiv'd Sen<g ref="char:EOLhyphen"/>tence of Death, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>John Priſley,</hi> for the Murther of <hi>Roger Page,</hi> late Maſter of the <hi>Spotted Dog</hi> in <hi>Goodmans fields</hi> in the Pariſh of <hi>White-Chappel,</hi> on the 6th of <hi>Auguſt,</hi> by gi<g ref="char:EOLhyphen"/>ving him a mortal Wound on the left-ſide of the Belly, upon a Quarrel happen<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:29970:2"/>between the Deceaſed, and one <hi>Thomas Yerard</hi> and <hi>Thomas Dawſon</hi> not yet taken, whoſe part the Priſoner (accidentally coming by) took, and gave the De<g ref="char:EOLhyphen"/>ceaſed the Wound, as it appeared in Court, without any manner of provocati<g ref="char:EOLhyphen"/>on. When, after Sentence of Death received, as in caſe of Wilful Murther, (it being ſo found by the Jury) he was remanded back to <hi>Newgate,</hi> after having in vain begg'd Tranſportation, and pleaded he was a Young Man, in the prime of his Years and Strength, <hi>&amp;c.</hi> Where being arrived, he betook himſelf to as much Retirement as poſſible the place would afford; and, upon the ſerious ad<g ref="char:EOLhyphen"/>vice given him that he ought not to flatter himſelf with hopes of long Life, be<g ref="char:EOLhyphen"/>came very penſive, not only praying by himſelf, but deſiring the Prayers of ſuch as came to viſit him; imploring God's Mercy, and deſiring that the innocent Blood that had been ſhed might not be laid to his charge; ſaying he had been well educated, and born of conſiderable Parents, but had not cordially hearken<g ref="char:EOLhyphen"/>ed to thoſe good Inſtructions they had given him, rather following his own Imaginations; for which, and other ſins, he believ'd God had brought this Puniſhment upon him. And much in the ſame temper, as far as could be per<g ref="char:EOLhyphen"/>ceived by thoſe that viſited him and attended upon him, he continued, dili<g ref="char:EOLhyphen"/>gently enquiring after his future Safety.</p>
+            <p>
+               <hi>John George</hi> receiv'd Sentence in the cloſe of the Seſſions, as the former, for breaking the Houſe of one <hi>Richard Higgens</hi> of the Pariſh of <hi>Acton</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Middleſex,</hi> and taking Goods and Moneys belonging to the ſaid <hi>Higgens</hi> and one <hi>Edward Stephens,</hi> to the value of 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> on tho 17th of <hi>Auguſt</hi> laſt; plead<g ref="char:EOLhyphen"/>ing only, that he bought the Goods in the Street, tho' it appear'd upon Evi<g ref="char:EOLhyphen"/>dence in Court he was found in the Houſe, and there apprehended. But be<g ref="char:EOLhyphen"/>ing return'd to <hi>Newgate,</hi> to expect the Execution of the Sentence, he (tho' con<g ref="char:EOLhyphen"/>cluded to be an old Oſtender) began much to relent, and conſider his Eternal Eſtate, as little hoping or expecting long to continue in this World, much liſt<g ref="char:EOLhyphen"/>ening to thoſe that came in charity to viſit him and his Fellow-Convicts, ſeem<g ref="char:EOLhyphen"/>ing deſirous to be inſtructed, and confeſſing that giving himſelf up to bad Com<g ref="char:EOLhyphen"/>pany, he had (to ſupply his Wants, occaſion'd by extravagant Expences) pro<g ref="char:EOLhyphen"/>ceeded to take unlawful Courſes: but he hoped, if he might be ſpared, ſo to order the future buſineſs of his Life, as to make (in ſome meaſure) amends for the Injury he had done to ſundry Perſons, whom he forbore to name; but that, if it was his hard hap to fall by an untimely Death, he hop'd God would have Mercy upon his poor Soul, and not ſuffer That to miſcarry; deſiring often the Prayers of all good People, that by their Supplications on his behalf God would give him a true ſenſe of his ſins, and diſpoſe his heart to ſincere Repentance; and ſo continued at times to pray in publick, and by himſelf in private, as much as the convenience of the place would admit.</p>
+            <p>
+               <hi>Daniel Carey</hi> had Sentence of Death for the Wilful Murdering of <hi>Richard Welding</hi> on the 17th of <hi>July</hi> laſt upon <hi>Tower-hill,</hi> by giving him a Wound un<g ref="char:EOLhyphen"/>der the left Breaſt of five Inches, whereof the ſaid <hi>Welding</hi> then, or in a very ſhort time after, dy'd. And tho' in Court he alledged the Witneſſes were miſtaken in the Man, and that there being others there, they might give the Wound above-mentioned; alledging likewiſe his Youth and Innocency: Yet in his retirement he appear'd much afflicted and concern'd at what had happen<g ref="char:EOLhyphen"/>ed; hoping, and earneſtly deſiring, that God would not lay Blood to his Charge; and much bewail'd his misfortune for being preſent at this diſaſtrous Accident, giving himſelf up very attentively to hear the Exhortations of ſuch pious Divines and others as came to counſel him for his Immortal Welfare, and
+<pb n="3" facs="tcp:29970:2"/>adviſing all by his Example to keep out of Quarrellings, and brangling mat<g ref="char:EOLhyphen"/>ters of that nature, thereby to prevent their falling into the like misfortune; hoping however, tho' he had liv'd a diſſolute Life, that now his unfeigned Re<g ref="char:EOLhyphen"/>pentance might find place for Mercy, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Charles O Bryan</hi> and <hi>William Godard</hi> received Sentence of Death for a Felony and Burglary, in breaking the Houſe of <hi>Edward Weeks</hi> of <hi>Cony-Hatch</hi> in the County of <hi>Middleſex</hi> in the Night-time, and taking thence Goods and Money to the value of 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> in which Exploit one <hi>Jones</hi> (who was likewiſe with them in the Robbery) receiv'd a mortal Wound, of which he dy'd in <hi>Moors-Court</hi> in St. <hi>Martins in the Fields,</hi> they bringing him off at that time wounded, <hi>&amp;c.</hi> And altho' upon Trial they denied the Fact; yet being returned to <hi>Newgate,</hi> with little hopes of being repriev'd, tho' they had earneſtly implor'd Tranſportati<g ref="char:EOLhyphen"/>on, a ſenſe of their miſ-ſpent Lives appear'd in their melancholly Deportment and Behaviour, much Dejectedneſs, <hi>&amp;c.</hi> and made them, in ſpight of ſome lit<g ref="char:EOLhyphen"/>tle reſolution they ſtrove to put upon it, to conſider the nearneſs of their ap<g ref="char:EOLhyphen"/>proaching Ends, as ſtanding condemned by Law, <hi>&amp;c.</hi> obliging them to a de<g ref="char:EOLhyphen"/>ſire of Repentance and Forgiveneſs of thoſe ſins that had brought them even upon the brink of a ſhameful Death, and earneſtly attending the Exhortations of ſuch as gave Them and their Fellow-Convicts ſerious Advice.</p>
+            <p>
+               <hi>John Pidgley</hi> was ſentenc'd with the reſt for ſtealing two Gueldings, value 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> on the 27th of <hi>July</hi> laſt, out of the Grounds of <hi>Edward Spear</hi> at <hi>Hammer<g ref="char:EOLhyphen"/>ſmith,</hi> which he ſold to one <hi>John Gerrard,</hi> who was tried with him, but acquit<g ref="char:EOLhyphen"/>ted. He, as the reſt, being return'd to <hi>Newgate,</hi> found the ſenſe of approaching Death ſtruck terror upon his Conſcience, and greatly afflict him, inſomuch that he became altogether reſtleſs and uneaſie, till he had ſomewhat allay'd his la<g ref="char:EOLhyphen"/>bouring mind by addreſſing himſelf to ſuch as came to adminiſter ſpiritual Con<g ref="char:EOLhyphen"/>ſolation to eaſe his Oppreſſions, <hi>&amp;c.</hi> He confeſſed himſelf a very vile Sinner, and that by giving himſelf up to Lewd Company he had been drawn into ma<g ref="char:EOLhyphen"/>ny evil Practices, continuing very Penitent.</p>
+            <p>Thus far having proceeded to give an Account of the particular Behaviours of theſe condemned Criminals, as far as was obſerved during their reſpite, we now paſs to what was more general, <hi>viz.</hi> Upon their being return'd to <hi>Newgate</hi> af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Sentence, the next morning ſeveral perſons uiſited them, in order to pre<g ref="char:EOLhyphen"/>pare their minds for a ſincere Repentance, labouring earneſtly to make them ſenſible of the great Crimes they had committed, and the danger they were in not only to loſe a Temporal Life, as forfeited to the Juſtice of the Nation for the breach of the known Laws, but that which is Eternal, unleſs God's Anger by a ſpeedy Repentance might be turned away, and his Mercy plead with his Juſtice on their behalf; laying before them how heinous a thing Sin is in the ſight of God, eſpecially Sins of ſuch a Dye and Complexion as they ſtood no<g ref="char:EOLhyphen"/>toriouſly guilty of: To which they moſt of them gave very ſerious attention, wiſhing, and heartily deſiring, that Prayers might be put up for them, that God in his infinite Mercy would be pleaſed to have mercy upon their poor Souls, and give them a true ſenſe of the wretched State and Condition where<g ref="char:EOLhyphen"/>in they were.</p>
+            <p>Thus being ſomewhat prepared for Holy Exerciſe, they retired to Prayers, and afterwards, in the Sermons preached on that Occaſion, ſo many as were preſent were further exhorted to a ſerious Repentance, and highly to improve the little time they had, or could expect, on this ſide the Grave, by endeavour<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:29970:3"/>to break the ſtonineſs of their hearts, and ſhew themſelves throughly ſenſi<g ref="char:EOLhyphen"/>ble, by an unfeigned acknowledgment of their Crimes, whereby they had of<g ref="char:EOLhyphen"/>fended God and Man in the higheſt Nature, ſome of them being of a Crimſon Dye, as having dipped their hands in innocent Blood, and others in a manner no leſs heinous: Wherefore great Sins required great Repentance; and that ſuch ſtains of Guilt could not be waſhed out without a thorough breaking and humbling under a true ſenſe of them; and that they ought to employ all their power and ſtrength to cry to God, who is the God of Mercies and Forgiveneſs, where the Sinner is truly penitent, and takes ſhame to himſelf. And further they were ſhewed the Nature of their Sins in ſundry reſpects, and earneſtly exhorted not to delay Repentance, by flattering themſelves with hopes of a longer Life, of which they were ſo uncertain: Or, if it ſo fell out that they might be ſpared through the King's great Clemency and Goodneſs, yet how<g ref="char:EOLhyphen"/>ever it was high time for them to turn from the evil of their ways, and become new Creatures, leſt by continuing in a courſe of ſinning a greater Evil ſhould ſuddenly overtake them, or to this effect. And then proceeded to give them hopes of Salvation in the many gracious and favourable Promiſes made in the Goſpel to penitent Sinners, tho' turning late from the paths of Iniquity, if the Repentance prov'd ſincere and unfeigned, <hi>&amp;c.</hi>
+            </p>
+            <p>The following days they were frequently viſited, and ſupported under their Agony and Afflictions with cordial Advice, and ſeaſonable Admonitions, to which they ſeemed to give extraordinary attention, with promiſe of obſer<g ref="char:EOLhyphen"/>vance and amendment. And now, whil'ſt theſe good Offices continued, and nothing but Death could be expected, ſeeing they were already Dead in Law, and nothing but the Execution of the Sentence remain'd to paſs them from this World into Eternity: His Majeſty's interpoſing Mercy ſtepped between, ſo that ſeveral of them were by his gracious Clemency Repriev'd, of which ha<g ref="char:EOLhyphen"/>ving notice, they ſeemed much over-joy'd, that by the Goodneſs of their Com<g ref="char:EOLhyphen"/>paſſionate Prince they were raiſed in a manner from Death (in the thoughts of which they were altogether ſwallowed up) to the proſpect of a longer Life: however Three, <hi>viz. Daniel Carey, Charles O Bryan,</hi> and <hi>John Priſley,</hi> whoſe Crimes render'd them leſs fit Objects of ſuch Clemency and Forbearance, on <hi>Friday</hi>-morning, after they had been pray'd with in the Priſon, and exhorted in this their great Extremity to lay hold on Chriſt by Faith, and wholly rely on God's Mercy through the Merits of their Bleſſed Saviour, <hi>&amp;c.</hi> were put into the Cart, and carried to <hi>Tyburn,</hi> the place of Execution; where being arrived, after the uſual Ceremony, two (<hi>viz. O' Bryan</hi> and <hi>Carey</hi>) were Exe<g ref="char:EOLhyphen"/>cuted according to Sentence; but <hi>Priſley</hi> obtain'd a Reprieve, and was brought back to <hi>Newgate.</hi>
+            </p>
+            <closer>
+               <dateline>WITH ALLOWANCE.</dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Mallet,</hi> next Door to the Sign of the <hi>Star</hi> between <hi>Fleet-bridge</hi> and <hi>Bridewell-bridge.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
